@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+pyarrow            # parquet I/O
+joblib
+
+# Forecasting
+scikit-learn
+lightgbm
+xgboost
+shap
+
+# Optimization
+cvxpy
+highspy            # HiGHS solver backend for CVXPY
+
+# Reinforcement learning
+gymnasium
+stable-baselines3
+torch
+tqdm               # SB3 progress bar
+rich               # SB3 progress bar
+
+# Visualization
+plotly
+kaleido            # static PNG export
