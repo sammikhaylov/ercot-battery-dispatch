@@ -247,8 +247,3 @@ PPO upgrades: continuous actions, shared normalization stats, longer training (Â
 License
 
 MIT
-
-Author
-
-Samuel Mikhaylov, B.S. Economics (Intended), Texas A&M University. 05/2028 Expected.
-LinkedIn: linkedin.com/in/sammikhaylov Â· Portfolio site in progress
